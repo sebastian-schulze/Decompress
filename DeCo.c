@@ -3,6 +3,7 @@ unsigned int fctCompress(int iComTemp, int iComTime, int iComYYYY, int iComMM, i
    unsigned int iComp=0;
    iComTemp+=100;
    //jason ist cool
+   //hallo
 
    iComp+=iComDD;
    iComp=iComp<<4;
