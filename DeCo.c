@@ -1,6 +1,7 @@
 unsigned int fctCompress(int iComTemp, int iComTime, int iComYYYY, int iComMM, int iComDD)
 {
-   unsigned int iComp=0;
+//seb change
+unsigned int iComp=0;
    iComTemp+=100;
    iComYYYY-=1900;
 
